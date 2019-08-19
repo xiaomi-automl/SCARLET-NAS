@@ -46,7 +46,7 @@ Your kind citations are welcomed!
 
     @article{chu2019scarlet,
         title={SCARLET-NAS: Bridging the gap Between Scalability and Fairness in Neural Architecture Search},
-        author={Chu, Xiangxiang and Zhang, Bo and Ma, Hailong and Li, Jixiang and Li, Qingyuan and Xu, Ruijun},
+        author={Chu, Xiangxiang and Zhang, Bo and Li, Jixiang and Li, Qingyuan and Xu, Ruijun},
         journal={arXiv preprint arXiv:1908.06022},
         url={https://arxiv.org/pdf/1908.06022.pdf},
         year={2019}
