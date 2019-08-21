@@ -14,7 +14,7 @@ One-shot neural architecture search features fast training of a supernet in a si
 ## Discuss with us!
 
 * QQ 群名称：小米 AutoML 交流反馈
-* 群   号：702473319
+* 群   号：702473319 (加群请填写“神经网络架构搜索”的英文简称)
 
 ## Good news! We Are Hiring!
 
