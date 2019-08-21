@@ -11,6 +11,11 @@ One-shot neural architecture search features fast training of a supernet in a si
 * The pretrained models are accessible after submitting a questionnaire: https://forms.gle/Df5ASj4NPBrMVjPy6
 * 国内用户请填写问卷获取预训练模型： https://wj.qq.com/s2/4301641/0b80/
 
+## Discuss with us!
+
+* QQ 群名称：小米 AutoML 交流反馈
+* 群   号：702473319
+
 ## Good news! We Are Hiring!
 
  Hi folks! We are AutoML Team from Xiaomi AI Lab and there are few open positions, welcome applications from new graduates and professionals skilled in Deep Learning (Vision, Speech, NLP etc.)!
