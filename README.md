@@ -16,12 +16,12 @@ One-shot neural architecture search features fast training of a supernet in a si
 * QQ 群名称：小米 AutoML 交流反馈
 * 群   号：702473319 (加群请填写“神经网络架构搜索”的英文简称)
 
-## Good news! We Are Hiring!
+## Good news! We Are Hiring (Full-time & Internship)!
 
  Hi folks! We are AutoML Team from Xiaomi AI Lab and there are few open positions, welcome applications from new graduates and professionals skilled in Deep Learning (Vision, Speech, NLP etc.)!
 
 * Please send your resume to `zhangbo11@xiaomi.com`
-* （少量）人工智能算法/软件工程师职位，简历请发送至 `zhangbo11@xiaomi.com`
+* 人工智能算法/软件工程师（含实习生）职位，简历请发送至 `zhangbo11@xiaomi.com`
 
 ## Updates
 
