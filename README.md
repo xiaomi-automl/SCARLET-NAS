@@ -37,7 +37,7 @@ We have reorganized all validation images of the ILSVRC2012 ImageNet by their cl
 Your kind citations are welcomed!
 
 
-    @inproceedigns{chu2021scarlet,
+    @inproceedings{chu2021scarlet,
         title={SCARLET-NAS: Bridging the gap Between Scalability and Fairness in Neural Architecture Search},
         author={Chu, Xiangxiang and Zhang, Bo and Li, Qingyuan and Xu, Ruijun and Li, Xudong},
         booktitle={ICCV Workshops},
