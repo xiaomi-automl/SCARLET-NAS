@@ -1,4 +1,4 @@
-# SCARLET-NAS: Bridging the gap Between Stability and Scalability in Neural Architecture Search
+# SCARLET-NAS: Bridging the gap Between Stability and Scalability in Neural Architecture Search ![arXiv](http://img.shields.io/badge/cs.CV-arXiv%3A1908.06022-B31B1B.svg)
 
 To discover compact models of great power is the goal of neural architecture search. Previous one-shot approaches are limited by fixed-depth search spaces. Simply paralleling skip connections with other choices can make depths variable. Unfortunately, it creates a large range of perturbation for supernet training, which makes it difficult to evaluate models. In this paper, we unveil its root cause under single-path settings and tackle the problem by imposing an equivariant learnable stabilizer on each skip connection. It has threefold benefits: improved convergence, more reliable evaluation, and retained equivalence. The third benefit is of the uttermost importance for scalability. As appending stabilizers to a model doesn't change its representational capacity, we can now evaluate the stabilized counterpart as an identical proxy. With an evolutionary search backend that treats the supernet as an evaluator, we derive a family of state-of-the-art architectures, the SCARLET (SCAlable supeRnet with Learnable Equivariant sTablizer)series, at a tremendously reduced cost compared with EfficientNet.
 
@@ -37,10 +37,10 @@ We have reorganized all validation images of the ILSVRC2012 ImageNet by their cl
 Your kind citations are welcomed!
 
 
-    @article{chu2019scarlet,
+    @inproceedigns{chu2021scarlet,
         title={SCARLET-NAS: Bridging the gap Between Scalability and Fairness in Neural Architecture Search},
-        author={Chu, Xiangxiang and Zhang, Bo and Li, Jixiang and Li, Qingyuan and Xu, Ruijun},
-        journal={arXiv preprint arXiv:1908.06022},
+        author={Chu, Xiangxiang and Zhang, Bo and Li, Qingyuan and Xu, Ruijun},
+        booktitle={ICCV Workshops},
         url={https://arxiv.org/pdf/1908.06022.pdf},
-        year={2019}
+        year={2021}
     }
